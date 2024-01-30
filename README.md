@@ -35,9 +35,9 @@ Password: deeplay
 
 You will need to copy the modified dmenu.bin file over to /oem/vendor/bin folder and replace the dmenu.bin in there for this it work.
 
-Copy everything in this exe file to the root of a USB Drive, via its installer or use Winrar and rename it from .exe to rar, make sure the USB is on MBR and FAT32.
+Install everything in this exe file to the root of a USB Drive, via its installer or use Winrar and rename it from .exe to rar, make sure the USB is on MBR and formated in FAT32.
 
-Uses the script on the USB to copy the dmenu.bin file to the firmware, its called `Add-New-dmenu.bin-mod-file.sh` so type:
+Uses the script on the USB drive to copy the dmenu.bin file to the firmware, its called `(Add)-New-dmenu.bin-mod-file.sh` so type:
 
 Press enter after each line
 
