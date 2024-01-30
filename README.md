@@ -10,7 +10,7 @@ A USB Serial CP21012 Module, you can find them on eBay.
 
 A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works).
 
-A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+.
+A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600 Plus.
 
 Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.
 
