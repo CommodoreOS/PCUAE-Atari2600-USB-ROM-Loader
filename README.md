@@ -12,6 +12,7 @@ Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+
 
 Now connect everything - Connect the wire from the serial USB CP2102 to the Atari2600+ UART connector, RX to TX and TX to RX and GND to GND(Ground) to the USB Serial CP2102 pins.
 
+Picture of the Atari2600 Plus Main Board and it UART Debug connector
 ![MAIN_BOARD_UART](https://i.ibb.co/T8GNsGz/Atari2600-PCB1.png)
 
 Then run Putty and goto Serial Line and pick the right com port that the CP2102 is connected on your PC, look in Device Manager to see what its on: COM1/2/3x, then set: 115200, 8, 8, 1 None, None.
