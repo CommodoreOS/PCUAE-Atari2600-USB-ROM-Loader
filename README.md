@@ -6,13 +6,13 @@ and type in a `few commands into Putty`, into its `Linux Shell` to run a script 
 
 # You will need:
 
-`A USB Serial CP21012 Module, you can find them on eBay.`
+A USB Serial CP21012 Module, you can find them on eBay.
 
-`A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works).`
+A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works).
 
-`A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+.`
+A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+.
 
-`Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.`
+Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.
 
 Now connect everything - Connect the wire from the `Serial USB CP2102` to the `Atari2600+ UART connector`, `RX to TX` and `TX to RX` and `GND to GND(Ground)` to the `USB Serial CP2102 pins`.
 
