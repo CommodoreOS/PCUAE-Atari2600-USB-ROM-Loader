@@ -42,6 +42,7 @@ Uses the script on the USB drive to copy the dmenu.bin file to the firmware, its
 Press enter after each line
 
 `cd /media/usb0`
+
 `ls` 
 
 Do you see the USB Drive content..?
@@ -58,6 +59,7 @@ It should be done now, make sure you back up the `dmenu-org.bin` file on the roo
 To remove it and restore it back to how it was run the script called `(Remove)-New-dmenu.bin-mod-file.sh` run it the same way as above, so type:
 
 `cd /media/usb0`
+
 `ls`
 
 Do you see the USB Drive content..?
