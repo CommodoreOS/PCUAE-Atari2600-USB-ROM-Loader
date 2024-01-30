@@ -1,4 +1,4 @@
-How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600+
+How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600 Plus
 ===================================================================
 
 You will need the Atari2600+ connected to its Uart on its main board and using a usb serial CP2102.
