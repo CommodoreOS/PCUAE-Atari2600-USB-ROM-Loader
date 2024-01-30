@@ -1,4 +1,4 @@
-How to run Atari 2600, 7800 Games from USB Drive on the Atari2600+
+How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600+
 ===================================================================
 
 You will need the Atari2600+ connected to its Uart on its main board and using a usb serial CP2102.
@@ -7,10 +7,11 @@ and type in commands into Putty, its Linux Shell to run a script that copies the
 You will need:
 A USB Serial CP21012 Module, you can find them on eBay.
 A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works)
-A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone but does not power the Atari2600+. 
+A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+. 
 Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.
 
-Now connect everything - Connect the wire from the serial USB to the Atari2600+ UART connector, RX to TX and TX to RX and GND to GND(Ground) to the USB Serial CP2102 pins.
+Now connect everything - Connect the wire from the serial USB CP2102 to the Atari2600+ UART connector, RX to TX and TX to RX and GND to GND(Ground) to the USB Serial CP2102 pins.
+https://i.ibb.co/T8GNsGz/Atari2600-PCB1.png
 
 Then run Putty and goto Serial Line and pick the right com port that the CP2102 is connected on your PC, look in Device Manager to see what its on: COM1/2/3x, then set: 115200, 8, 8, 1 None, None.
 
