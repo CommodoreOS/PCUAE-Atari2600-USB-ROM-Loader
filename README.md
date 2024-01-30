@@ -18,7 +18,9 @@ Then run Putty and goto Serial Line and pick the right com port that the CP2102 
 
 Save its setting in Putty so you do not need to do it again.
 
-Once you see the Atari Linux shell in Putty then type its user and password thats below:
+Once you see the Atari2600 Plus Linux Shell in Putty then type its user and password thats below:
+
+You should see RK3128:
 
 Buildroot User and Password
 ============================
