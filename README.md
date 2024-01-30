@@ -1,16 +1,16 @@
 How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600 Plus
 ===================================================================
 
-You will need the Atari2600+ and PC connected via its its UART on its main board using a USB Serial CP2102.
-and type in a few commands into Putty, its Linux Shell to run a script that copies the modified dmenu.bin file over to the firmware.
+You will need the `Atari2600 Plus and PC` connected via its `UART` on its `main board` using a `USB Serial CP2102`.
+and type in a `few commands into Putty`, into its `Linux Shell` to run a script that copies the `modified dmenu.bin file` over to the firmware.
 
-You will need:
-A USB Serial CP21012 Module, you can find them on eBay.
-A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works)
-A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+. 
-Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.
+`You will need:`
+`A USB Serial CP21012 Module, you can find them on eBay.`
+`A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works).`
+`A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+.`
+`Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it.`
 
-Now connect everything - Connect the wire from the serial USB CP2102 to the Atari2600+ UART connector, RX to TX and TX to RX and GND to GND(Ground) to the USB Serial CP2102 pins.
+Now connect everything - Connect the wire from the `Serial USB CP2102` to the `Atari2600+ UART connector`, `RX to TX` and `TX to RX` and `GND to GND(Ground)` to the `USB Serial CP2102 pins`.
 
 Picture of the Atari2600 Plus Main Board and it UART Debug connector
 ![MAIN_BOARD_UART](https://i.ibb.co/T8GNsGz/Atari2600-PCB1.png)
