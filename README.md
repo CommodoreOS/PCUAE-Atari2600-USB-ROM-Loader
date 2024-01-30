@@ -5,6 +5,7 @@ You will need the `Atari2600 Plus and PC` connected via its `UART` on its `main 
 and type in a `few commands into Putty`, into its `Linux Shell` to run a script that copies the `modified dmenu.bin file` over to the firmware.
 
 `You will need:`
+
 `A USB Serial CP21012 Module, you can find them on eBay.`
 `A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works).`
 `A screw driver to open the Atari2600+, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600+.`
