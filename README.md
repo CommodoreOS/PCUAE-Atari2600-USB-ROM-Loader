@@ -1,8 +1,8 @@
 How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600 Plus
 ===================================================================
 
-You will need the Atari2600+ connected to its Uart on its main board and using a usb serial CP2102.
-and type in commands into Putty, its Linux Shell to run a script that copies the modified dmenu.bin file over to the firmware.
+You will need the Atari2600+ and PC connected via its its UART on its main board using a USB Serial CP2102.
+and type in a few commands into Putty, its Linux Shell to run a script that copies the modified dmenu.bin file over to the firmware.
 
 You will need:
 A USB Serial CP21012 Module, you can find them on eBay.
