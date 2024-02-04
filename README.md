@@ -6,9 +6,11 @@ and type in a `few commands into Putty`, into its `Linux Shell` to run a script 
 
 # You will need:
 
-A USB Serial CP21012 Module, you can find them on eBay/Amazon https://www.amazon.co.uk/cp2102/s?k=cp2102 https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=CP2102+Module+&_sacat=0
+A USB Serial CP21012 Module, you can find them on eBay/Amazon https://www.amazon.co.uk/cp2102/s?k=cp2102 
+https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=CP2102+Module+&_sacat=0
 
-A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works) https://www.amazon.co.uk/Sony-EC310-MicroUSB-Adapter-Cable-Black/dp/B00XG8KDVO   https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Sony+EC310+MicroUSB+to+USB+Adapter+OTG+Cable
+A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works) https://www.amazon.co.uk/Sony-EC310-MicroUSB-Adapter-Cable-Black/dp/B00XG8KDVO
+https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Sony+EC310+MicroUSB+to+USB+Adapter+OTG+Cable
 
 A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600 Plus.
 
