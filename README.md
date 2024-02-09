@@ -12,7 +12,7 @@ https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=CP2
 A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works) https://www.amazon.co.uk/Sony-EC310-MicroUSB-Adapter-Cable-Black/dp/B00XG8KDVO
 https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Sony+EC310+MicroUSB+to+USB+Adapter+OTG+Cable
 
-They do say you can use a Micro USB to USB-C Adater then plug in the Sony USCOTG cable into it and then a 4 port hub thats powered so it powers the Atari2600 Plus becuse your using its USB-C port, but I have never tested it, so you might have to experiment abit to get the USB Drive to work, but the easiest way is above and use a Sony OTG Cable.
+They do say you can use a Micro USB to USB-C Adapter then plug in the Sony USCOTG cable into it and then a 4 port hub thats powered so it powers the Atari2600 Plus becuase your using its USB-C port that powers it, but I have never tested it, so you might have to experiment abit to get the USB Drive to work, but the easiest way is above and use a Sony OTG Cable.
 
 A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600 Plus.
 
