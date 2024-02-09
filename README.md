@@ -60,9 +60,9 @@ It should now reboot and it should run the ROM in the `Run_From_USB` folder on t
 
 It should be done now, make sure you back up the `dmenu-org.bin` file on the root USB Drive so you do not lose it so you can restore it if it gets deleted by actident.
 
-To remove it and restore it back to how it was run the script called `(Remove)-New-dmenu.bin-mod-file.sh` run it the same way as above, so type:
+To remove it and restore it back to how it was run the script called `(Remove)-New-dmenu.bin-mod-file.sh` run it the same way as above, but type:
 
-`cd /media/usb0`
+`cd /mnt`
 
 `ls`
 
