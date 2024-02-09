@@ -14,7 +14,7 @@ https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Son
 
 They do say you can use a Micro USB to USB-C Adapter then plug in the Sony USCOTG cable into it and then a 4 port hub thats powered so it powers the Atari2600 Plus becuase your using its USB-C port that powers it, but I have never tested it, so you might have to experiment abit to get the USB Drive to work, but the easiest way is above and use a Sony OTG Cable.
 
-A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600 Plus.
+A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C port, not for me anyway.
 
 Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
