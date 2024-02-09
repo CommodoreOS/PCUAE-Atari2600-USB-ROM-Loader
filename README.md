@@ -117,9 +117,9 @@ stella-cartridge-mode-enabled=no
 
 stella-mode-enabled=no
 
-To ebale Stella just change Stella Mode flag file to yes so it loads its GUI.
+To enable Stella just change Stella Mode flag file to yes so it loads its GUI.
 
-If you want to load a Cartridge into Stella then just chnage Stella Cartrige Mode flag file to yes, both do not need to be yes.
+If you want to load a Cartridge into Stella then just change Stella Cartridge Mode flag file to yes, both do not need to be yes.
 
 And thats it... :) Stella shold load and show the games.
 
