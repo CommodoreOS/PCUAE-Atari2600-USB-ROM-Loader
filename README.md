@@ -114,6 +114,7 @@ Flag Files for Stella
 ============ 
 
 stella-cartridge-mode-enabled=no
+
 stella-mode-enabled=no
 
 To ebale Stella just change Stella Mode flag file to yes so it loads its GUI.
