@@ -139,7 +139,7 @@ You will be able to enable other emulators in the PCUAE USB Drive too(not added 
 
 This is just the start of this and will get better in time, as we find out what else we can do on the Atari2600 Plus and its Linux, things take time to mature... :)
 
-I worked out the SELECT and RESET Switches on the Atari2600 act like the Sholder Buttons(LSB = SELECT and RSB = RESET) on THEA500 Gamepad.
+I worked out the SELECT and RESET Switches on the Atari2600 act like the Sholder Buttons(LSB = SELECT and RSB = RESET) on THEA500 Gamepad so the switches on the console are part of the Joystick controller, they use the extra buttons becuae it only has one fire button on each joystick.
 
 Have a nice day, Are you gonna play Atari Today... :)
 
