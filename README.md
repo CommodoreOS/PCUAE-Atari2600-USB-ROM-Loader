@@ -104,7 +104,7 @@ You can updated the dmenu.bin file too from the USB Drive using the flag file: 
 It now loads the rom file it sees in the `PCUAE USB Drive Letter(H:)\PCUAE-Atari-Games\Run_From_USB` folder so they have to be named correctly so:
 
 
-You can Now Run Stella VCS 2600 Emmulator in ROM Loader
+You can Now Run Stella VCS 2600 Emulator in ROM Loader
 ==========================================
 
 Flag files for Stella
