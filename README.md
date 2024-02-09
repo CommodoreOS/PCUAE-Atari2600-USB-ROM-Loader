@@ -12,6 +12,8 @@ https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=CP2
 A Mini USB OTGUSB Cable(Sony EC310 Micro USB OTG Cable works) https://www.amazon.co.uk/Sony-EC310-MicroUSB-Adapter-Cable-Black/dp/B00XG8KDVO
 https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Sony+EC310+MicroUSB+to+USB+Adapter+OTG+Cable
 
+They do say you can use a Micro USB to USC-C Adater then plug in the Sony USCOTG cable into it and then a 4 port hub thats powered so it powers the Atari2600 Plus, but I have never tested it, so you might have to exspeament abit to get the USB Drive to work, but the easiest way is above and use a Sony OTG Cable.
+
 A screw driver to open the Atari2600 Plus, there is no other way doing this, it does not work via the USB-C connector, I did buy one and it works on my mobile phone(Samsung Galaxy A22) but does not power the Atari2600 Plus.
 
 Putty - A TTY shell for Linux/Windows so you can communicate with the Atari2600+, there is a Windows version, I use it: https://www.chiark.greenend.org.uk/~sgtatham/putty/
@@ -100,6 +102,21 @@ You can updated the dmenu.bin file too from the USB Drive using the flag file: 
 
 
 It now loads the rom file it sees in the `PCUAE USB Drive Letter(H:)\PCUAE-Atari-Games\Run_From_USB` folder so they have to be named correctly so:
+
+
+You can Now Run Stella VCS 2600 Emmulator in ROM Loader
+==========================================
+
+Flag files for Stella
+
+stella-cartridge-mode-enabled=no
+stella-mode-enabled=no
+
+To ebale Stella just change Stella Mode flag file to yes so it loads its GUI.
+
+If you want to load a Cartridge into Stella then just chnage Stella Cartrige Mode flag file to yes, both do not need to be yes.
+
+And thats it... :) Stella shold load and show the games.
 
 Load ROM File from Run_From_USB folder
 ======================================
