@@ -90,6 +90,9 @@ It does backup of the dmenu.bin file so you can put it back to how it was before
 Enable/Disable Dumper/Core
 ===========================
 
+Flag Files
+============
+
 Cartridge Dumper Enable = cartdump-enabled=yes
 
 Cartridge Dumper Disable =  cartdump-enabled=no
@@ -107,7 +110,8 @@ It now loads the rom file it sees in the `PCUAE USB Drive Letter(H:)\PCUAE-Atari
 You can Now Run Stella VCS 2600 Emulator in ROM Loader
 ==========================================
 
-Flag files for Stella
+Flag Files for Stella
+============ 
 
 stella-cartridge-mode-enabled=no
 stella-mode-enabled=no
