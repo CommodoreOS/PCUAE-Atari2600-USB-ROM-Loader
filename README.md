@@ -138,7 +138,9 @@ If it has a different extension thats not .bin its OK `Atari2600-1.bin` or `Atar
 You will be able to enable other emulators in the PCUAE USB Drive too(not added yet) I did add scripts and files for Retroarch 1.7.1 and Stella so they can be added later, you can use the flag files: `ra-mode-enabled=yes` and `stella-mode-enabled=yes` so it loads different modes.
 
 This is just the start of this and will get better in time, as we find out what else we can do on the Atari2600 Plus and its Linux, things take time to mature... :)
- 
+
+I worked out the SELECT and RESET Switches on the Atari2600 act like the Sholder Buttons(LSB = SELECT and RSB = RESET) on THEA500 Gamepad.
+
 Have a nice day, Are you gonna play Atari Today... :)
 
 Spannernick... :)
