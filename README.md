@@ -1,8 +1,16 @@
-How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600 Plus
+How to run Atari 2600, 7800 ROM Games from USB Drive on the Atari2600 Plus(DEEPLAY MOD)
 ===================================================================
+PCUAE Atari2600 Plus Deeplay USB ROM Loader
+============================================
+
+This now has Stella included so you can run it as a Mode on it.
+![STELLA_ON_DEEPLAY](https://i.ibb.co/9VC6nNP/Screenshot-2024-02-11-183918.png)
+Missle Command from the 10 in 1 Game Cartridge running in Stella.
+![STELLA_ON_DEEPLAY](https://i.ibb.co/m6qXQ6B/Screenshot-2024-02-11-172545.png)
+
 
 You will need the `Atari2600 Plus and PC` connected via its `UART` on its `main board` using a `USB Serial CP2102.`
-and type in a `few commands into Putty`, into its `Linux Shell` to run a script that copies the `modified dmenu.bin file` over to the firmware.
+and type in a `few commands into Putty`, into its `Linux Shell` to run a script that copies the `modified dmenu.bin(Deeplay Menu) file` over to the firmware.
 
 # You will need:
 
