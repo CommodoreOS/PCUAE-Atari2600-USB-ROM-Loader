@@ -149,7 +149,7 @@ This is just the start of this and will get better in time, as we find out what 
 
 I worked out the SELECT and RESET Switches on the Atari2600 act like the Sholder Buttons(LSB = SELECT and RSB = RESET) on THEA500 Gamepad so the switches on the console are part of the Joystick controller, they use the extra buttons becuae it only has one fire button on each joystick.
 
-This might be slitly different then the new update thats just come out so allways check what the update sayd about new fetures and that.
+# This might be slitly different then the new update thats just come out so allways check what the update says about new fetures and that.
 
 Have a nice day, Are you gonna play Atari Today... :)
 
