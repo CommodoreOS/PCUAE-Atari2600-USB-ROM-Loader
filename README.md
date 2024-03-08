@@ -9,7 +9,7 @@ Missle Command from the 10 in 1 Game Cartridge running in Stella.
 ![STELLA_ON_DEEPLAY](https://i.ibb.co/m6qXQ6B/Screenshot-2024-02-11-172545.png)
 
 
-THis is now in PCUAE andfd you cxan flash a update to the Atari2600 Plus so it working in PCUAE, PUAE is here: https://github.com/CommodoreOS/PCUAE
+This is now in PCUAE andd you can flash a update to the Atari2600 Plus so it loads in PCUAE from the USB Drive, More info is in PCUAE, PCUAE is here: https://github.com/CommodoreOS/PCUAE
 
 Have a nice day, Are you gonna play Atari Today... :)
 
