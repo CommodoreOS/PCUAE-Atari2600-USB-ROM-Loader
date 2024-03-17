@@ -11,7 +11,7 @@ Missle Command from the 10 in 1 Game Cartridge running in Stella.
 
 This is now in PCUAE and you can flash a update to the Atari2600 Plus so it loads in PCUAE from the USB Drive, More info is in PCUAE, PCUAE is here: https://github.com/CommodoreOS/PCUAE
 
-Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge.
+Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge in the slot.
 
 Installing the PCUAE Update on the Atari2600 Plus
 ==================================================
@@ -113,6 +113,8 @@ Load Rom File from Run_From_USB folder
 Atari VCS 2600 = Atari2600-1.bin
 
 Atari 7800     = Atari7800-1.bin
+
+Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge in the slot.
 
 Copy a game into the Run_From_USB folder and then make a copy of it then rename the copy to the right name so say copy the rom `Pole Position II (PAL) (Atari) (1987).a78` so you now have two copies of the file so when you name the copy you know what rom it loading in that folder so you rename `Pole Position II (PAL) (Atari) (1987) - Copy.a78`to `Atari7800-1.bin`
 so you always have a copy of the rom in there so you know what `Atari7800-1.bin`is.
