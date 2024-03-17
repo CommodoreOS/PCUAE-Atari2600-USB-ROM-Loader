@@ -33,41 +33,41 @@ Steps:
 
 The update uploads in about 30 seconds. 
 
-`Start to upgrade firmware...
+`Start to upgrade firmware...`
 
-Download Boot Start
+`Download Boot Start`
 
-Download Boot Success
+`Download Boot Success`
 
-Wait For Maskrom Start
+`Wait For Maskrom Start`
 
-Wait For Maskrom Success
+`Wait For Maskrom Success`
 
-Test Device Start
+`Test Device Start`
 
-Test Device Success
+`Test Device Success`
 
-Check Chip Start
+`Check Chip Start`
 
-Check Chip Success
+`Check Chip Success`
 
-Get FlashInfo Start
+`Get FlashInfo Start`
 
-Get FlashInfo Success
+`Get FlashInfo Success`
 
-Prepare IDB Start
+`Prepare IDB Start`
 
-Prepare IDB Success
+`Prepare IDB Success`
 
-Download IDB Start
+`Download IDB Start`
 
-Download IDB Success
+`Download IDB Success`
 
-Download Firmware Start
+`Download Firmware Start`
 
-Download Image... (100%)
+`Download Image... (100%)`
 
-Download Firmware Success`
+`Download Firmware Success`
 
 
 Upgrade firmware finish ok and finish flashing.
