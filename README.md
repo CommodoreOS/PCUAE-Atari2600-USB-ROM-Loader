@@ -13,6 +13,9 @@ This is now in PCUAE and you can flash a update to the Atari2600 Plus so it load
 
 Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge in the slot.
 
+You will not need a cartridge in the slot if your using Stella Mode or any other Mode, Stella Cartridge Mode will need a Cartriosdge in the slot because its looking for one to load or dump so it can be loading into Stella.
+
+
 Installing the PCUAE Update on the Atari2600 Plus
 ==================================================
 
