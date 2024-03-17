@@ -11,6 +11,7 @@ Missle Command from the 10 in 1 Game Cartridge running in Stella.
 
 This is now in PCUAE and you can flash a update to the Atari2600 Plus so it loads in PCUAE from the USB Drive, More info is in PCUAE, PCUAE is here: https://github.com/CommodoreOS/PCUAE
 
+Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge.
 
 Installing the PCUAE Update on the Atari2600 Plus
 ==================================================
