@@ -33,7 +33,7 @@ Steps:
 
 The update uploads in about 30 seconds. 
 
-Start to upgrade firmware...
+`Start to upgrade firmware...
 Download Boot Start
 Download Boot Success
 Wait For Maskrom Start
@@ -50,7 +50,7 @@ Download IDB Start
 Download IDB Success
 Download Firmware Start
 Download Image... (100%)
-Download Firmware Success
+Download Firmware Success`
 
 Upgrade firmware finish ok and finish flashing.
 
